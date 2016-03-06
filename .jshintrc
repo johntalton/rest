@@ -1,0 +1,21 @@
+{
+	"maxerr": 100,
+
+	"esversion": 6,
+	"node": true,
+
+	"indent": 1,
+	"camelcase": true,
+	"latedef": true,
+	"newcap": true,
+	"nonew": true,
+	"quotmark": "single",
+	"maxlen": 80,
+	"plusplus": true,
+
+	"varstmt": true,
+	"maxparams": 4,
+	"maxdepth": 3,
+	"maxstatements": 20,
+	"maxcomplexity": 10
+}
